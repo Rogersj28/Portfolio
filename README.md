@@ -42,5 +42,5 @@ ___
 
 ---
 ## Let's Connect
-- LinkedIn: [linkedin.com/in/Jason Rogers](https://linkedin.com/in/jason-rogers-8141a5168) 
-- GitHub: [github.com/Rogersj28](https://github.com/Rogersj28)
+- **LinkedIn**: [linkedin.com/in/Jason Rogers](https://linkedin.com/in/jason-rogers-8141a5168) 
+- **GitHub**: [github.com/Rogersj28](https://github.com/Rogersj28)
