@@ -10,12 +10,14 @@ ___
 I'm a results-driven Functional & Business Analyst with 3+ years of experience enhancing operational efficiency through data-driven solutions. I specialize in system optimization (D365, SAP), workflow automation, and business reporting. Currently, I'm expanding my technical toolkit to transition into a role as an **AI Analyst**, with the long-term goal of becoming a **Data Scientist**.
 
 I’m passionate about turning data into insights and helping businesses make smarter, faster decisions.
+
 ___
 ## Technical Skills
 - **Languages & Tools:** Python, R, SQL, Power BI, RStudio, Jupyter Notebooks  
 - **Analytics & Data:** Data Wrangling, Data Modeling, Forecasting, Machine Learning (in progress)  
 - **Platforms & Systems:** Microsoft Dynamics 365 (D365), SAP ERP, DevOps, ServiceNow  
-- **Productivity:** Excel (Advanced), GitHub, Anaconda, Spyder, SharePoint, Microsoft Teams  
+- **Productivity:** Excel (Advanced), GitHub, Anaconda, Spyder, SharePoint, Microsoft Teams
+- 
 ___
 ## Featured Projects
 ### [Insurance Claims Analytics Dashboard – R Shiny]
@@ -25,6 +27,7 @@ Interactive R Shiny dashboard that segments and analyzes insurance claim data.
 - Built using `shiny`, `ggplot2`, `dplyr`, and `DT`
 
 > *Skills used:* R, R Shiny, Data Wrangling, Data Visualization
+
 ___
 ### Power BI Dashboard – Accounts Payable Automation *(Internal Project)*
 Developed at SHI International to modernize AP reporting.  
@@ -34,6 +37,7 @@ Developed at SHI International to modernize AP reporting.
 
 > *Note: This dashboard was built on a secure system and is not available for public sharing.*
 > *Skills used:* Power BI, Excel Automation, Business Analytics
+
 ___
 ## What I’m Working On
 - Building out more portfolio projects using **Python (Pandas, Matplotlib, Scikit-learn)**  
