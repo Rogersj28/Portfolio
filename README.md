@@ -17,7 +17,7 @@ ___
 - **Analytics & Data:** Data Wrangling, Data Modeling, Forecasting, Machine Learning (in progress)  
 - **Platforms & Systems:** Microsoft Dynamics 365 (D365), SAP ERP, DevOps, ServiceNow  
 - **Productivity:** Excel (Advanced), GitHub, Anaconda, Spyder, SharePoint, Microsoft Teams
-- 
+
 ___
 ## Featured Projects
 ### [Insurance Claims Analytics Dashboard – R Shiny]
